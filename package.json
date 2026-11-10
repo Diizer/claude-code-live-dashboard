@@ -6,7 +6,7 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-    "test": "node --test test/"
+    "test": "node --test test/guard.test.mjs"
   },
   "engines": {
     "node": ">=20"
