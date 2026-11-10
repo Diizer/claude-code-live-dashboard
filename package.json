@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-live-dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A Claude Code subagent that keeps a live progress dashboard for long tasks, plus the hook that fences it in.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
